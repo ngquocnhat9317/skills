@@ -1,0 +1,4 @@
+interface:
+  display_name: "Pixel Art Maker"
+  short_description: "Vẽ pixel art: tileset, sprite, UI, animation"
+  default_prompt: "Thiết kế style spec (tile size/palette), rồi tạo tileset/sprite/animation tối thiểu cho MVP. Luôn giữ grid nhất quán, palette giới hạn, và xuất spritesheets + naming conventions."

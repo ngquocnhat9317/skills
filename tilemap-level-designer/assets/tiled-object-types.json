@@ -1,0 +1,35 @@
+[
+  {
+    "name": "spawn_player",
+    "color": "#4aa3ff",
+    "type": "point",
+    "properties": []
+  },
+  {
+    "name": "warp",
+    "color": "#ffb84a",
+    "type": "rectangle",
+    "properties": [
+      { "name": "toLevel", "type": "string", "value": "" },
+      { "name": "toX", "type": "float", "value": 0 },
+      { "name": "toY", "type": "float", "value": 0 }
+    ]
+  },
+  {
+    "name": "checkpoint",
+    "color": "#7dff7a",
+    "type": "point",
+    "properties": [
+      { "name": "checkpointId", "type": "string", "value": "" }
+    ]
+  },
+  {
+    "name": "trigger_dialogue",
+    "color": "#d67dff",
+    "type": "rectangle",
+    "properties": [
+      { "name": "dialogueId", "type": "string", "value": "" }
+    ]
+  }
+]
+

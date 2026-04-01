@@ -1,0 +1,4 @@
+interface:
+  display_name: "Game Script Writer"
+  short_description: "Viết kịch bản/quest/hội thoại game"
+  default_prompt: "Viết nội dung game có cấu trúc: logline, setting, nhân vật, outline beats, quest chain và hội thoại phân nhánh. Hỏi yêu cầu còn thiếu, rồi xuất NARRATIVE.md, QUESTS.md và dialogue.json theo schema."

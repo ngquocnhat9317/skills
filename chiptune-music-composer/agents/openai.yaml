@@ -1,0 +1,4 @@
+interface:
+  display_name: "Chiptune Music Composer"
+  short_description: "Sáng tác chiptune + SFX cho game pixel"
+  default_prompt: "Tạo music spec cho game pixel: mood, BPM, key, loop 8/16 bar, cấu trúc track (lead/bass/noise) và danh sách SFX theo event. Xuất AUDIO-SPEC.md rõ loop points và naming."

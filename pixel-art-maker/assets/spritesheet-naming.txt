@@ -1,0 +1,15 @@
+Spritesheet naming conventions (gợi ý)
+
+- File:
+  - `tileset_<theme>.png`
+  - `char_<name>.png`
+  - `ui_main.png`
+
+- Frame name (nếu xuất JSON):
+  - `<entity>/<anim>/<dir>/<frameIndex>`
+  - Ví dụ: `player/walk/right/03`
+
+- Hướng (dir):
+  - `up`, `down`, `left`, `right`
+  - hoặc `u`, `d`, `l`, `r` (chọn 1, dùng nhất quán)
+

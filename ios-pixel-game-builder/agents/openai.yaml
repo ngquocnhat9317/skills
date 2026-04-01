@@ -1,0 +1,4 @@
+interface:
+  display_name: "iOS Pixel Game Builder"
+  short_description: "Thiết kế & dựng game pixel 2D iOS (SpriteKit)"
+  default_prompt: "Thiết kế và triển khai MVP game pixel cho iOS bằng Swift + SpriteKit. Hỏi các yêu cầu còn thiếu, chốt base resolution/tile size/palette, viết GDD-mini, và scaffold khung SpriteKit chạy được (Scene + input + camera + tilemap)."

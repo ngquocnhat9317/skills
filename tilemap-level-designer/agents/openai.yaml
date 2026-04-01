@@ -1,0 +1,4 @@
+interface:
+  display_name: "Tilemap Level Designer"
+  short_description: "Thiết kế level/tilemap (Tiled) + quy ước spawn/trigger"
+  default_prompt: "Thiết kế level cho game pixel 2D theo tilemap. Chốt tile size và level grammar, blockout nhanh, đặt spawn/trigger/collision theo quy ước, và xuất MAP-SPEC.md + danh sách level."
