@@ -1,0 +1,4 @@
+interface:
+  display_name: "Query Performance Doctor"
+  short_description: "Scan & fix slow SQL/NoSQL queries"
+  default_prompt: "Use $scan-query-perf to scan and fix query performance issues (SQL/NoSQL/ORM) in this codebase."
