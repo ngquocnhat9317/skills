@@ -1,0 +1,4 @@
+interface:
+  display_name: "Diff UT Coverage Reporter"
+  short_description: "Create UT from git diff and report diff line coverage by source"
+  default_prompt: "Use this skill to write UT for changed files and compute diff coverage per source."
