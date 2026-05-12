@@ -1,0 +1,4 @@
+interface:
+  display_name: "Main Diff Reporter"
+  short_description: "Bilingual summary from main diff"
+  default_prompt: "Compare current branch with main, keep only core business changes, and output concise Japanese/English developer bullets with code terms in backticks."
