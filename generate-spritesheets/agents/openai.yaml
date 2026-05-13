@@ -1,0 +1,4 @@
+interface:
+  display_name: "Generate Spritesheets"
+  short_description: "Generate one 5-frame directional state spritesheet"
+  default_prompt: "Generate one 5-frame top-down spritesheet for a requested direction and state (idle, walk, or run) with transparent background."
